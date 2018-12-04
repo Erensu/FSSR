@@ -17,3 +17,11 @@ Some files during developing
 #### 3D Path Planning 
 
 #### Multi Robots Collaboration
+1. [An Online Multi-Robot SLAM System for 3D LiDARs](http://sci-hub.tw/10.1109/iros.2017.8202268) 多机器人三维激光点云匹配，有代码
+2. [SegMatch: Segment based loop-closure for 3D point clouds](https://arxiv.org/pdf/1609.07720.pdf) 点云匹配方法
+3. [SegMap: 3D Segment Mapping using Data-Driven Descriptors](http://www.roboticsproceedings.org/rss14/p03.pdf) 跟1， 2配合的文章
+4. [Orbiting a Moving Target with Multi-Robot Collaborative Visual SLAM](https://www.cs.sfu.ca/~pingtan/Papers/rss_mvigro_2015.pdf) 
+5. [multirobot_map_merge](http://wiki.ros.org/multirobot_map_merge)
+6. [A ROS package that implements a multi-robot SLAM system using the condensed graphs approach](https://github.com/mtlazaro/cg_mrslam)
+7. [A Cooperative SLAM Framework with Efficient Information Sharing over Mobile Ad Hoc Networks](http://ap.isr.uc.pt/archive/GMartins_dissertation_final.pdf)
+8. [Collaborative Monocular SLAM with Multiple Micro Aerial Vehicles](https://www.ifi.uzh.ch/dam/jcr:9d6012bb-a1fe-4b8a-a54a-e0ead5e0f60e/IROS13_Forster_CSFM.pdf) 基于视觉的多机器人SLAM

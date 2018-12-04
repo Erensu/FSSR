@@ -16,4 +16,4 @@ Some files during developing
 
 #### 3D Path Planning 
 
-#### Multi Robot Collaboration
+#### Multi Robots Collaboration

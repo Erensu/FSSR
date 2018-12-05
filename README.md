@@ -12,6 +12,7 @@ Some files during developing
 6. [A Robust Solution to High-Accuracy Geolocation: Quadruple Integration of GPS, IMU, Pseudolite, and Terrestrial Laser Scanning](https://sci-hub.tw/10.1109/tim.2010.2050981)
 7. [Mapping forests using an unmanned ground vehicle with 3D LiDAR and graph-SLAM](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0168169917301631) 回环检测lidar SLAM
 8. [Visual-LiDAR SLAM with loop closure](http://www.nada.kth.se/~ann/exjobb/yoshua_nava.pdf)硕士论文
+9. [MIM_SLAM: A Multi-Level ICP Matching Method for Mobile Robot in Large-Scale and Sparse Scenes](http://scholar.google.com/scholar_url?url=https://www.mdpi.com/2076-3417/8/12/2432/pdf&hl=zh-CN&sa=X&d=8739146617895809254&scisig=AAGBfm2fkjIJo88IXVwXnOtV5j9VxFa5Zg&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:1517064718869459059:AAGBfm1Kl9JfeLhbdQRODVtfx-m4eUMwdA) 多层ICP 
 
 #### 3D Reconstruction 
 1. [Real-time probabilistic fusion of sparse 3D LIDAR and dense stereo](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7759342/) lidar visual 融合产生深度图

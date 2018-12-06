@@ -19,6 +19,7 @@ Some files during developing
 2. [A 3D Reconstruction with High Density and Accuracy using Laser Profiler and Camera Fusion System on a Rover](http://www.cvl.iis.u-tokyo.ac.jp/data/uploads/papers/Ishikawa_Fusion_3DV2016.pdf)
 3. [PCL 点云库](https://github.com/PointCloudLibrary/pcl)
 4. [PLVS](https://www.luigifreda.com/research/plvs-an-open-source-rgb-d-and-stereo-slam-for-volumetric-reconstruction-and-3d-incremental-segmentation/)
+5. [TRADR](https://www.luigifreda.com/2017/03/23/tradr-review-year-3-montelibretti-work-package-4-got-excellent-evaluation/)救援机器人
 #### 3D Mapping
 1. [3D Registration of Aerial and Ground Robots for Disaster Response: An Evaluation of Features, Descriptors, and 
 Transformation Estimation](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8088136/)无人机配合地面机器人建图

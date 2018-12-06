@@ -20,6 +20,7 @@ Some files during developing
 3. [PCL 点云库](https://github.com/PointCloudLibrary/pcl)
 4. [PLVS](https://www.luigifreda.com/research/plvs-an-open-source-rgb-d-and-stereo-slam-for-volumetric-reconstruction-and-3d-incremental-segmentation/)
 5. [TRADR](https://www.luigifreda.com/2017/03/23/tradr-review-year-3-montelibretti-work-package-4-got-excellent-evaluation/)救援机器人
+6. [State of the Art on 3D Reconstruction with RGB-D Cameras](https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf)
 #### 3D Mapping
 1. [3D Registration of Aerial and Ground Robots for Disaster Response: An Evaluation of Features, Descriptors, and 
 Transformation Estimation](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8088136/)无人机配合地面机器人建图

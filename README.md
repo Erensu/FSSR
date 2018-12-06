@@ -1,8 +1,8 @@
 # Field_Search_Save_Robot
 Some files during developing
 
-### sensor setup
-3D lidar, GPS, IMU, Multicameras，UWB 
+### Sensor setup
+3D lidar, GPS, IMU, Multicameras，UWB
 #### Localization 
 1. [3D LiDAR SLAM Integration with GPS/INS for UAVs in Urban GPS-Degraded Environments](http://sci-hub.tw/10.2514/6.2017-0448) 采用自适应卡尔曼滤波融合GPS,IMU,Lidar。
 2. [INS/GPS/LiDAR Integrated Navigation System for Urban and Indoor Environments Using Hybrid Scan Matching Algorithm ](https://www.mdpi.com/1424-8220/15/9/23286/pdf) GPS,Lidar 在室内外可以交替使用，且采用了Lidar与IMU紧耦合。

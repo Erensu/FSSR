@@ -53,3 +53,4 @@ Transformation Estimation](https://sci-hub.tw/https://ieeexplore.ieee.org/abstra
 6. [A ROS package that implements a multi-robot SLAM system using the condensed graphs approach](https://github.com/mtlazaro/cg_mrslam)
 7. [A Cooperative SLAM Framework with Efficient Information Sharing over Mobile Ad Hoc Networks](http://ap.isr.uc.pt/archive/GMartins_dissertation_final.pdf)
 8. [Collaborative Monocular SLAM with Multiple Micro Aerial Vehicles](https://www.ifi.uzh.ch/dam/jcr:9d6012bb-a1fe-4b8a-a54a-e0ead5e0f60e/IROS13_Forster_CSFM.pdf) 基于视觉的多机器人SLAM
+9. [Experimental Validation of a Multirobot Distributed Receding Horizon Motion Planning Approach](https://hal.archives-ouvertes.fr/hal-01935322/document)

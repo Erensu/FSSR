@@ -3,6 +3,7 @@ Some files during developing
 
 ### Sensor setup
 3D lidar, GPS, IMU, Multicameras，UWB
+1. [Simultaneous exploration and segmentation for search and rescue](http://sci-hub.tw/10.1002/rob.21847)
 #### Localization 
 1. [3D LiDAR SLAM Integration with GPS/INS for UAVs in Urban GPS-Degraded Environments](http://sci-hub.tw/10.2514/6.2017-0448) 采用自适应卡尔曼滤波融合GPS,IMU,Lidar。
 2. [INS/GPS/LiDAR Integrated Navigation System for Urban and Indoor Environments Using Hybrid Scan Matching Algorithm ](https://www.mdpi.com/1424-8220/15/9/23286/pdf) GPS,Lidar 在室内外可以交替使用，且采用了Lidar与IMU紧耦合。
@@ -54,3 +55,4 @@ Transformation Estimation](https://sci-hub.tw/https://ieeexplore.ieee.org/abstra
 7. [A Cooperative SLAM Framework with Efficient Information Sharing over Mobile Ad Hoc Networks](http://ap.isr.uc.pt/archive/GMartins_dissertation_final.pdf)
 8. [Collaborative Monocular SLAM with Multiple Micro Aerial Vehicles](https://www.ifi.uzh.ch/dam/jcr:9d6012bb-a1fe-4b8a-a54a-e0ead5e0f60e/IROS13_Forster_CSFM.pdf) 基于视觉的多机器人SLAM
 9. [Experimental Validation of a Multirobot Distributed Receding Horizon Motion Planning Approach](https://hal.archives-ouvertes.fr/hal-01935322/document)
+10.[Multi-UAV Collaborative Monocular SLAM Focusing on Data Sharing](https://sci-hub.tw/https://link.springer.com/chapter/10.1007/978-3-030-04239-4_10)
